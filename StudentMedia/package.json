@@ -1,0 +1,14 @@
+{
+  "name": "studentmedia",
+  "version": "1.0.0",
+  "description": "STUDENT-MEDIA",
+  "scripts": {
+     "start": "node src/app.js",
+     "dev" : "nodemon src/app.js"
+  },
+  "author": "suriya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
